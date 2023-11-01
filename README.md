@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ggsplayz
-- 👀 I’m interested in Fortnite GameServers
+- 👀 I’m interested in Fortnite related things / multimedia software
 - 🌱 I’m currently learning C#, concepts of C++
 - 📫 How to reach me: ggsplayz at discord
 
