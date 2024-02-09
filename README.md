@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ggsplayz
-- 🌱 I’m currently learning C#, concepts of C++
+- 🌱 I code for fun
 - 📫 Reach me: ggsplayz at discord
 
 <!---
